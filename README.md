@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45"> 
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="45"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45"> 
-</div
+## About Me
+- A second year Information and Technology Student.
+- Interested in learning Full-Stack Development and Cybersecurity.
+- Actively building personal projects and honing my coding skills.
+  
+## Skill stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,github,java,vscode)](https://skillicons.dev)
