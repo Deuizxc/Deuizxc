@@ -24,15 +24,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=3&width=100%"/>
 
 ## 📊 Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deuizxc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0D1117" width="70%" />
-
 <img src="https://streak-stats.demolab.com/?user=Deuizxc&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6b7280" width="70%" />
-
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=3&width=100%"/>
 
 ## 📬 Contacts
