@@ -1,13 +1,3 @@
-<div align="center">
-
-# Hi 👋, I'm John
-
-### 🌱 Aspiring Full-Stack Developer & Cybersecurity Enthusiast
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=3&width=100%"/>
-
 ## 👤 About Me
 
 - 🎓 Second-year **Information and Technology** student
@@ -50,9 +40,8 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Facebook](https://img.shields.io/badge/-Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_HANDLE)
-[![GitHub](https://img.shields.io/badge/-GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deuizxc)
+[![Gmail](https://img.shields.io/badge/-Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bacani.johnbernard.tayag@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/john-bernard-bacani-449901421)
+[![Facebook](https://img.shields.io/badge/-Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/narddce/)
 
 </div>
