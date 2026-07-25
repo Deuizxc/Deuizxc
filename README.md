@@ -27,8 +27,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deuizxc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deuizxc&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Deuizxc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0D1117" width="70%" />
 
 <img src="https://streak-stats.demolab.com/?user=Deuizxc&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6b7280" width="70%" />
 
@@ -41,7 +40,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bacani.johnbernard.tayag@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/john-bernard-bacani-449901421)
-[![Facebook](https://img.shields.io/badge/-Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/narddce/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-bernard-bacani-449901421)
+[![Facebook](https://img.shields.io/badge/-Facebook-1E3A8A?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/narddce/)
 
 </div>
