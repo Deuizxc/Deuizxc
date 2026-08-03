@@ -29,6 +29,20 @@
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=3&width=100%"/>
 
+
+## 🎓 Certificates
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/b1697fd403d7b923dad8f63d85dd889779e47367/assets/cisco.png" height="220" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/b1697fd403d7b923dad8f63d85dd889779e47367/assets/hv.png" height="220" />
+</td>
+</tr>
+</table>
+
 ## 📬 Contacts
 
 <div align="center">
