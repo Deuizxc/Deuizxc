@@ -1,8 +1,9 @@
 ## 👤 About Me
 
 - 🎓 Second-year **Information and Technology** student
-- 🔍 Interested in learning **Full-Stack Development** and **Cybersecurity**
+- 🔍 Interested in learning **Software Development** and **Cybersecurity**
 - 🛠️ Actively building personal projects and honing my coding skills
+- 💻 Currently studying python
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:3B82F6,100:BFDBFE&height=3&width=100%"/>
 
