@@ -1,6 +1,6 @@
 ## 👤 About Me
 
-- 🎓 Second-year **Information and Technology** student
+- 🎓 Sophomore **Information and Technology** student
 - 🔍 Interested in learning **Software Development** and **Cybersecurity**
 - 🛠️ Actively building personal projects and honing my coding skills
 - 💻 Currently studying python
