@@ -42,6 +42,11 @@
 <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/b1697fd403d7b923dad8f63d85dd889779e47367/assets/hv.png" height="220" />
 </td>
 </tr>
+<tr>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/main/assets/centri.png" height="220" />
+  </td>
+</tr>
 </table>
 
 ## 📬 Contacts
