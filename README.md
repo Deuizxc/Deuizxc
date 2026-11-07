@@ -3,7 +3,7 @@
 - 🎓 Sophomore **Information Technology** student at Quezon City University
 - 🔍 Interested in learning **Software Development** and **Cybersecurity**
 - 🛠️ Actively building personal projects and honing my coding skills
-- 💻 Currently studying **Python**
+- 💻 Currently enhancing my knowledge
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:8B5CF6,100:C4B5FD&height=3&width=100%"/>
 
