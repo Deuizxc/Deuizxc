@@ -34,24 +34,26 @@
 
 ## 🎓 Certificates
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/b1697fd403d7b923dad8f63d85dd889779e47367/assets/cisco.png" height="220" />
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/b1697fd403d7b923dad8f63d85dd889779e47367/assets/hv.png" height="220" />
-</td>
-</tr>
+<table align="center" width="100%">
   <tr>
-    <td align="center">
-<img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/b1697fd403d7b923dad8f63d85dd889779e47367/assets/datacamp.jpg" height="220" />
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/b1697fd403d7b923dad8f63d85dd889779e47367/assets/appkad.jpg" height="220" />
-</td>
-    </tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/main/assets/cisco.png" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/main/assets/hv.png" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/main/assets/datacamp.jpg" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/main/assets/appkad.jpg" width="100%" />
+    </td>
+  </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:8B5CF6,100:C4B5FD&height=3&width=100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:8B5CF6,100:C4B5FD&height=3&width=100%"/>
 
