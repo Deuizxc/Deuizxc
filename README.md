@@ -56,7 +56,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:8B5CF6,100:C4B5FD&height=3&width=100%"/>
 
-## 📬 Contacts
+## 📬 Connect
 
 <div align="center">
 
