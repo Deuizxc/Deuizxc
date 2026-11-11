@@ -36,6 +36,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/main/assets/itc.png" width="25%" alt="Introduction to Cybersecurity Badge" />
+  <img src="https://raw.githubusercontent.com/Deuizxc/Portfolio/main/assets/net.png" width="25%" alt="Networking Basics Badge" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:8B5CF6,100:C4B5FD&height=3&width=100%"/>
